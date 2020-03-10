@@ -1,0 +1,288 @@
+{ 
+    "app": {
+        "title": "Filc Diary",
+        "version": "version"
+    },
+
+    "drawer": {
+        "home": "home",
+        "evaluations": "evaluations",
+        "timetable": "timetable",
+        "homeworks": "homeworks",
+        "notes": "notes",
+        "messages": "messages",
+        "tests": "tests",
+        "absences": "absences",
+        "settings": "settings"
+    },
+
+    "test": {
+        "title": "Tests"
+    },
+
+    "grade": {
+        "": "grade",
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5"
+    },
+
+    "account": {
+        "title": "accounts",
+        "delete": "Delete user",
+        "deleteConfirm": "Are you sure you want to delete {name}?"
+    },
+
+    "dialog": {
+        "ok": "OK",
+        "yes": "Yes",
+        "no": "No",
+        "done": "Done"
+    },
+
+    "time": {
+        "": "time",
+        "hour": "hour",
+        "minute": "minute",
+        "later": "later"
+    },
+
+    "date": {
+        "": "date",
+        "tomorrow": "tomorrow",
+        
+        "monday": "monday",
+        "tuesday": "tuesdau",
+        "wednesday": "wednesday",
+        "thursday": "thursday",
+        "friday": "friday",
+        "saturday": "saturday",
+        "sunday": "sunday",
+
+        "mondayShort": "M",
+        "tuesdayShort": "Tu",
+        "wednesdayShort": "W",
+        "thursdayShort": "Th",
+        "fridayShort": "F",
+        "saturdayShort": "Sa",
+        "sundayShort": "Su",
+
+        "day": "day",
+        "week": "week",
+        "month": "month",
+        "month2": "two months",
+
+        "weekPrev": "last week",
+        "weekNext": "next week"
+    },
+
+    "delay": {
+        "": "delay",
+        "mins": "delay in minutes",
+        "all": "all delays: {count} minutes"
+    },
+
+    "administration": {
+        "time": "uploaded on"
+    },
+
+    "justification": {
+        "state": "state",
+        "mode": "mode",
+        "justified": "justified",
+        "unjustified": "unjustified",
+        "tojustify": "to be justified",
+        "mixed": "mixed"
+    },
+
+    "lesson": {
+        "": "lesson",
+        "count": "{count} lesson",
+        "next": "next lesson",
+        "have": "lessons",
+        "room": "room",
+        "teacher": "teacher",
+        "class": "class",
+        "start": "lesson start",
+        "end": "lesson end",
+        "theme": "theme",
+        "subject": "subject",
+        "tomorrow": "Tomorrow there will be"
+    },
+
+    "homework": {
+        "": "homework",
+        "add": "add homework",
+        "title": "Homeworks",
+        "deadline": "deadline",
+        "subject": "subject",
+        "uploadUser": "uploader",
+        "uploadTime": "uploaded at"
+    },
+
+    "substitution": {
+        "": "substitution",
+        "missed": "not held"
+    },
+
+    "state": {
+        "": "state"
+    },
+    
+    "note": {
+        "": "note",
+        "2": "bulletin board",
+        "title": "Notes"
+    },
+
+    "message": {
+        "title": "Messages",
+        "receivers": "receivers"
+    },
+
+    "statistics": {
+        "": "statistics"
+    },
+
+    "absence": {
+        "": "absence",
+        "title": "Absences",
+        "time": "date",
+        "mode": "mode",
+        "all": "all absences: {count} hour(s)",
+        "parental": "parental excuse(s): {count}"
+    },
+    
+    "timetable": {
+        "": "Timetable",
+        "empty": "empty timetable"
+    },
+
+    "sort": {
+        "": "Sort",
+        "time": "date",
+        "eval": "grade",
+        "timeReal": "test's date"
+    },
+
+    "evaluation": {
+        "title": "Grades",
+        "navigation": {
+            "all": "All",
+            "statistics": "Statistics",
+            "results": "Results"
+        },
+        "summaryPlaceholder": "You'll see your end-year, half-year and quarterly evaluations here.",
+        "average": "average",
+        "averageClass": "class average",
+        "mode": "mode",
+        "weight": "weight",
+        "value": "value",
+        "range": "range",
+        "if": "if I got"
+    },
+
+    "summary": {
+        "firstQ": "First quarter evaluations",
+        "halfYear": "Half year evaluations",
+        "thirdQ": "Third quarter evaluations",
+        "endYear": "End year evaluations"
+    },
+
+    "lessonCard": {
+        "previous": "Previous",
+        "now": "Current - {min} minutes left",
+        "next": "Next - Starts in {min} minutes",
+        "minutes": "minutes"
+    },
+
+    "login": {
+        "": "login",
+        "username": "Username",
+        "password": "Password",
+        "usernameHint": "usually your education ID (11 numbers)",
+        "passwordHint": "most of the time birth date (19700101)",
+        "usernameError": "You must give a username!",
+        "passwordError": "You must give a password!",
+        "schoolError": "Please select a school!",
+        "school": "School",
+        "choose": "choose",
+        "chooseSchool": "Choose a school"
+    },
+
+    "export": {
+        "": "Export",
+        "grades": "grades and everything else",
+        "lessons": "classes",
+        "accounts": "accounts",
+        "choose": "choose an interval",
+        "success": "Success!"
+    },
+
+    "close": {
+        "title": "Close the application",
+        "confirm": "Are you sure you want to exit?"
+    },
+
+    "info": {
+        "birthdate": "Birth date: ",
+        "kretaID": "Kréta ID: ",
+        "address": "Address: ",
+        "teacher": "Classroom teacher: ",
+        "school": "School: ",
+        "parents": "Parent(s): ",
+        "mother": "Mother's name: "
+    },
+
+    "color": {
+        "": "Color",
+        "green": "green",
+        "red": "red",
+        "blue": "blue",
+        "lime": "lime",
+        "yellow": "yellow",
+        "orange": "orange",
+        "grey": "grey",
+        "pink": "pink",
+        "purple": "purple",
+        "teal": "teal"
+    },
+
+    "settings": {
+        "title": "Settings",
+        "colorful": "Colorful home",
+        "darkTheme": "Dark theme",
+        "amoled": "Amoled",
+        "smart": "Use fake KRÉTA agent (faster)",
+        "evaluationColors": "Grade colors",
+        "notifications": "Notifications",
+        "nextLesson": "Next class",
+        "syncFrequency": "Sync frequency: {n}",
+        "language": "Language (Nyelv, Sprache)",
+        "bugreport": "bug report"
+    },
+
+    "notification": {
+        "failed": "Failed to turn on notifications, please try again!"
+    },
+
+    "refresh" : {
+        "limit": "You can only update every {mins} minutes!"
+    },
+
+    "success": {
+        "": "Success",
+        "homework": "Homework uploaded successfully",
+        "homeworkDelete": "Homework deleted successfully"
+    },
+
+    "error": {
+        "": "Error",
+        "network": "Network error",
+        "readAccount": "Error while reading user"
+    },
+
+    "pcs": "x"
+}

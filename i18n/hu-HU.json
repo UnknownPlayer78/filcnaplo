@@ -1,0 +1,288 @@
+{
+    "app": {
+        "title": "Filc Napló",
+        "version": "verzió"
+    },
+
+    "drawer": {
+        "home": "főoldal",
+        "evaluations": "jegyek",
+        "timetable": "órarend",
+        "homeworks": "házi feladatok",
+        "notes": "feljegyzések",
+        "messages": "üzenetek",
+        "tests": "számonkérések",
+        "absences": "mulasztások",
+        "settings": "beállítások"
+    },
+
+    "test": {
+        "title": "Számonkérések"
+    },
+
+    "grade": {
+        "": "osztályzat",
+        "1": "1-es",
+        "2": "2-es",
+        "3": "3-as",
+        "4": "4-es",
+        "5": "5-ös"
+    },
+
+    "account": {
+        "title": "fiókok",
+        "delete": "Felhasználó törlése",
+        "deleteConfirm": "Biztosan törölni szeretnéd {name} felhasználót?"
+    },
+
+    "dialog": {
+        "ok": "OK",
+        "yes": "Igen",
+        "no": "Nem",
+        "done": "Kész"
+    },
+
+    "time": {
+        "": "idő",
+        "hour": "óra",
+        "minute": "perc",
+        "later": "múlva"
+    },
+
+    "date": {
+        "": "dátum",
+        "tomorrow": "holnap",
+        
+        "monday": "hétfő",
+        "tuesday": "kedd",
+        "wednesday": "szerda",
+        "thursday": "csütörtök",
+        "friday": "péntek",
+        "saturday": "szombat",
+        "sunday": "vasárnap",
+
+        "mondayShort": "H",
+        "tuesdayShort": "K",
+        "wednesdayShort": "Sz",
+        "thursdayShort": "Cs",
+        "fridayShort": "P",
+        "saturdayShort": "Sz",
+        "sundayShort": "V",
+
+        "day": "nap",
+        "week": "hét",
+        "month": "hónap",
+        "month2": "két hónap",
+
+        "weekPrev": "előző hét",
+        "weekNext": "következö hét"
+    },
+
+    "delay": {
+        "": "késés",
+        "mins": "késés mértéke",
+        "all": "Összes késés: {count} perc"
+    },
+
+    "administration": {
+        "time": "naplózás ideje"
+    },
+
+    "justification": {
+        "state": "állapota",
+        "mode": "módja",
+        "justified": "igazolt",
+        "unjustified": "igazolatlan",
+        "tojustify": "igazolandó",
+        "mixed": "vegyes"
+    },
+
+    "lesson": {
+        "": "óra",
+        "count": "{count} óra",
+        "next": "következő óra",
+        "have": "óra lesz",
+        "room": "terem",
+        "teacher": "tanár",
+        "class": "osztály",
+        "start": "óra kezdete",
+        "end": "óra vége",
+        "theme": "téma",
+        "subject": "tárgy",
+        "tomorrow": "Holnap"
+    },
+
+    "homework": {
+        "": "házi feladat",
+        "add": "házi hozzáadása",
+        "title": "Házi feladatok",
+        "deadline": "határidő",
+        "subject": "tantárgy",
+        "uploadUser": "feltöltő",
+        "uploadTime": "feltöltés ideje"
+    },
+
+    "substitution": {
+        "": "helyettesítés",
+        "missed": "elmarad"
+    },
+
+    "state": {
+        "": "állapot"
+    },
+    
+    "note": {
+        "": "feljegyzés",
+        "2": "faliújság",
+        "title": "Feljegyzések"
+    },
+
+    "message": {
+        "title": "Üzenetek",
+        "receivers": "címzett"
+    },
+
+    "statistics": {
+        "": "statisztikák"
+    },
+
+    "absence": {
+        "": "hiányzás",
+        "title": "Mulasztások",
+        "time": "hiányzás ideje",
+        "mode": "hiányzás módja",
+        "all": "Összes hiányzás: {count} óra",
+        "parental": "Szülői igazolás: {count} db"
+    },
+    
+    "timetable": {
+        "": "órarend",
+        "empty": "Úgy tűnik, ezen a héten nincs órád :)"
+    },
+
+    "sort": {
+        "": "Rendezés",
+        "time": "beírás ideje",
+        "eval": "jegy alapján",
+        "timeReal": "értékelés ideje"
+    },
+
+    "evaluation": {
+        "title": "Jegyek",
+        "navigation": {
+            "all": "Összes",
+            "statistics": "Statisztika",
+            "results": "Eredmények"
+        },
+        "summaryPlaceholder": "Itt fognak megjelenni a negyedéves, félévi és év végi jegyeid.",
+        "average": "átlag",
+        "averageClass": "osztályátlag",
+        "mode": "típus",
+        "weight": "súlyozás",
+        "value": "érték",
+        "range": "mód",
+        "if": "Ha kapnék egy..."
+    },
+
+    "summary": {
+        "firstQ": "Első negyedévi jegyek",
+        "halfYear": "Félévi jegyek",
+        "thirdQ": "Harmadik negyedévi jegyek",
+        "endYear": "Év végi jegyek"
+    },
+
+    "lessonCard": {
+        "previous": "Előző",
+        "now": "Jelenleg • {min} perc van hátra",
+        "next": "Következő • {min} perc múlva",
+        "minutes": "perc"
+    },
+
+    "login": {
+        "": "bejelentkezés",
+        "username": "Felhasználónév",
+        "password": "Jelszó",
+        "usernameHint": "11 jegyű, 7-tel kezdődő diákigazolványszám",
+        "passwordHint": "általában a születési dátum (pl.: 2000-01-02)",
+        "usernameError": "Kérlek add meg a felhasználónevedet!",
+        "passwordError": "Kérlek add meg a jelszavadat!",
+        "schoolError": "Kérlek válassz egy iskolát!",
+        "school": "Iskola",
+        "choose": "választás",
+        "chooseSchool": "Válassz iskolát"
+    },
+
+    "export": {
+        "": "Exportálás",
+        "grades": "jegyek és minden más",
+        "lessons": "órák",
+        "accounts": "fiókok",
+        "choose": "válassz intervallumot",
+        "success": "sikeresen exportálva"
+    },
+
+    "close": {
+        "title": "Alkalmazás bezárása",
+        "confirm": "Biztosan be akarod zárni az alkalmazást?"
+    },
+
+    "info": {
+        "birthdate": "Születési dátum: ",
+        "kretaID": "Kréta azonosító: ",
+        "address": "Lakcím: ",
+        "teacher": "Osztályfőnök: ",
+        "school": "Iskola: ",
+        "parents": "Szülők: ",
+        "mother": "Anyja neve: "
+    },
+
+    "color": {
+        "": "szín",
+        "green": "zöld",
+        "red": "piros",
+        "blue": "kék",
+        "lime": "lime",
+        "yellow": "sárga",
+        "orange": "narancs",
+        "grey": "szürke",
+        "pink": "rózsaszín",
+        "purple": "lila",
+        "teal": "kékeszöld"
+    },
+
+    "settings": {
+        "title": "Beállítások",
+        "colorful": "Színes főoldal",
+        "darkTheme": "Sötét üzemmód",
+        "amoled": "Amoled",
+        "smart": "Hamis adatlekérés KRÉTA appként (gyorsabb)",
+        "evaluationColors": "Jegyek színe",
+        "notifications": "Értesítések",
+        "nextLesson": "Következő óra",
+        "syncFrequency": "Szinkronizálás gyakorisága: {n}",
+        "language": "Nyelv (Sprache, Language)",
+        "bugreport": "hibajelentés" 
+    },
+
+    "notification": {
+        "failed": "Nem sikerült bekapcsolni az értesítéseket"
+    },
+
+    "refresh": {
+        "limit": "{mins} percenként egyszer frissíthetsz!"
+    },
+
+    "success": {
+        "": "Siker",
+        "homework": "Házifeladat sikeresen feltöltve",
+        "homeworkDelete": "Házifeladat sikeresen törölve"
+    },
+
+    "error": {
+        "": "Hiba",
+        "network": "Hálózati hiba",
+        "readAccount": "Hiba a felhasználó olvasása közben"
+    },
+
+    "pcs": "db"
+}
